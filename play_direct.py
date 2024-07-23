@@ -31,7 +31,7 @@ try:
         play(audio)
         
     else:
-        print("Failed to play audio")
+        print("Failed to play audio data")
 
 except Exception as e:
     print(e)
